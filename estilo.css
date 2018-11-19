@@ -11,6 +11,6 @@ position:fixed;
 }
 
 #texto-hero {
-	display:block
 	padding-top: 100px;
+	display:block;
 }
