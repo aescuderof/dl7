@@ -1,0 +1,16 @@
+#hero {
+	
+	width:100%;
+	background-image:url(actividad-bootstrap-photogallery-master/assets/images/bg.jpg)
+	
+}
+
+.navbar {
+float: right;
+position:fixed;	
+}
+
+#texto-hero {
+	display:block
+	padding-top: 100px;
+}
