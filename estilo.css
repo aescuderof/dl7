@@ -1,16 +1,58 @@
-#hero {
-	
+.jumbotron {
+
 	width:100%;
-	background-image:url(actividad-bootstrap-photogallery-master/assets/images/bg.jpg)
+	background-image:url(actividad-bootstrap-photogallery-master/assets/images/bg.jpg);
+	text-align:	center;
 	
 }
 
-.navbar {
+.navbar-navbar-default {
+
+text-align: center;	
+margin-right: 10px;
 float: right;
-position:fixed;	
+position: static;
+background-color: transparent;	
 }
 
-#texto-hero {
-	padding-top: 100px;
-	display:block;
+
+#button {
+justify-content: center;
+text-align: center;
+background-color: white;
+width: 200px;
+margin: auto;
+border-radius: 3px;
+
+}
+
+.texto-jumbotron {
+
+text-align:center;	
+color: white;
+}
+
+h4 {
+
+	text-align: center;
+}
+
+p {
+
+text-align: center;
+
+}
+
+
+.glyphicon glyphicon-camera {
+margin: auto;
+
+}
+
+h6 {
+background-color: #C7BBBA;
+text-align: center;
+height: 30px;
+
+
 }
